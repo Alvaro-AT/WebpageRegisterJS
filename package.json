@@ -1,0 +1,20 @@
+{
+  "name": "webpage-register",
+  "version": "1.0.0",
+  "description": "Webpage Register JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Arevalo Toro",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "truffle-hdwallet-provider": "^1.0.3",
+    "url-regex": "^5.0.0",
+    "web3": "^0.20.7"
+  }
+}
